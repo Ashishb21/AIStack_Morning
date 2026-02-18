@@ -1,0 +1,16 @@
+load_dotenv
+openai
+anthropic
+google-genai
+ollama
+langchain-ollama
+gradio
+pypdf
+PyPDF2
+python-docx
+unstructured-client
+langchain_community
+grandalf
+faiss-cpu
+langchain-chroma
+langchain
